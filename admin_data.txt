@@ -1,0 +1,4 @@
+admin id 123
+admin pass 11
+
+must start by admin to create first account id 
